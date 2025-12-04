@@ -1,0 +1,29 @@
+{
+  "name": "apollo-coding-challange",
+  "version": "1.0.0",
+  "description": "Apollo Coding Challange",
+  "homepage": "https://github.com/ZeelPatel1024/Apollo-Coding-Challange#readme",
+  "bugs": {
+    "url": "https://github.com/ZeelPatel1024/Apollo-Coding-Challange/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeelPatel1024/Apollo-Coding-Challange.git"
+  },
+  "license": "ISC",
+  "author": "Zeel Patel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
